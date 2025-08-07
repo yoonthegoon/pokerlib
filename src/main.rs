@@ -1,5 +1,6 @@
 mod card;
 mod cards;
+mod consts;
 mod error;
 mod hand;
 mod rank;
